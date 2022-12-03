@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jt4u30@gmail.com**
 
-- ⚡ Fun fact **I like to play basketball**
+- 🏀 Fun fact **I like to play basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
