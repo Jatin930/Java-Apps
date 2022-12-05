@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin930&label=Profile%20views&color=0e75b6&style=flat" alt="jatin930" /> </p>
 
-- 🔭 I’m currently working on **a personal project (ecommerce website)**
+- 🔭 I’m currently working on **a personal project (Ecommerce website)**
 
 - 🌱 I’m currently learning **Java and Python**
 
