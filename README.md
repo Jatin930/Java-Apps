@@ -27,7 +27,7 @@
 
 
 <br><br>
-<img align="right" alt="CodingGif" width = "400" src="https://blog.gfuel.com/hs-fs/hubfs/G%20FUEL%20Blog/trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif?width=500&name=trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif">
+<img align="right" alt="CodingGif" width = "300" src="https://blog.gfuel.com/hs-fs/hubfs/G%20FUEL%20Blog/trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif?width=500&name=trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin930&show_icons=true&locale=en" alt="jatin930" /></p>
 <br>
 
