@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
-- 👯 I’m looking to collaborate on **fun group projects**
+- 🤝 I’m looking to collaborate on **fun group projects**
 
 - 📫 How to reach me **jt4u30@gmail.com**
 
